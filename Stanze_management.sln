@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stanze_management", "Stanze_management\Stanze_management.csproj", "{309C2244-87B4-4589-8FF2-FCDD30038B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309C2244-87B4-4589-8FF2-FCDD30038B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309C2244-87B4-4589-8FF2-FCDD30038B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309C2244-87B4-4589-8FF2-FCDD30038B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309C2244-87B4-4589-8FF2-FCDD30038B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19865C3D-76CD-4325-B310-4109E52DE744}
+	EndGlobalSection
+EndGlobal
